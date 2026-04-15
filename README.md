@@ -26,6 +26,10 @@ This project analyzes sales data using Excel to extract meaningful business insi
 - Customer behavior changes based on time of day and location.
 - Occasion-based analysis helps identify peak demand periods.
 
+## 📊 Dashboard Preview
+![Dashboard] <img width="579" height="278" alt="Screenshot 2026-04-16 000103" src="https://github.com/user-attachments/assets/ccfba4a1-dd6f-404a-b128-31a3502260be" />
+
+
 ## 📁 Files Included
 - Excel Dashboard File (.xlsx)
 - Dashboard Screenshot
